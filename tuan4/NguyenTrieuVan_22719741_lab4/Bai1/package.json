@@ -1,0 +1,9 @@
+{
+  "name": "ex01-nodejs",
+  "version": "1.0.0",
+  "description": "Hello Docker - Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
